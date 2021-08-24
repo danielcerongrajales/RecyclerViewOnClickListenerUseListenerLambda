@@ -1,0 +1,1 @@
+usando un recycler view y por medio de una funcion lambda se añade un clic esto es mejor que simplemente usando el clic listener en el item poq quedes pasarle mas datos desde otra parte pero el lambda es solo disponible en kotlin y se llaman funciones de orden superior poq son funciones dentro de otras funciones
